@@ -1,0 +1,5 @@
+max_judgement_size: 50
+max_summary_size: 50
+max_thought_size: 50
+nb_ideas: 3
+nb_samples_per_idea: 3

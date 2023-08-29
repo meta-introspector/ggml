@@ -1,0 +1,3 @@
+max_summary_size: 1024
+max_thought_size: 512
+nb_ideas: 3

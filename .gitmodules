@@ -1,0 +1,10 @@
+[submodule "personalities_zoo"]
+	path = personalities_zoo
+	url = https://github.com/meta-introspector/lollms_bindings_zoo.git
+
+[submodule "bindings_zoo"]
+	path = bindings_zoo
+	url = https://github.com/meta-introspector/lollms_bindings_zoo
+[submodule "extensions_zoo_path"]
+	path = extensions_zoo_path
+	url = https://github.com/ParisNeo/lollms_extensions_zoo.git
