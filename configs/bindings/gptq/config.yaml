@@ -1,0 +1,9 @@
+automatic_context_size: true
+batch_size: 1
+ctx_size: 8192
+device: gpu
+max_cpu_mem_GB: 100
+max_gpu_mem_GB: 4
+seed: -1
+split_between_cpu_and_gpu: false
+use_triton: false
